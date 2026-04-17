@@ -1,0 +1,138 @@
+============================================================
+  ENVIRONMENT LOG
+  Session started: 2025-11-15 12:45:30
+============================================================
+
+============================================================
+  ENVIRONMENT LOG
+  Session started: 2025-11-15 13:21:07
+============================================================
+
+============================================================
+  ENVIRONMENT LOG
+  Session started: 2025-11-15 13:21:22
+============================================================
+
+[2025-11-15 13:21:22] ? STORAGE - System Startup: AGV Warehouse Management System initialized
+
+============================================================
+  Session ended: 2025-11-15 13:21:47
+============================================================
+============================================================
+  ENVIRONMENT LOG
+  Session started: 2025-11-15 13:23:05
+============================================================
+
+[2025-11-15 13:23:05] ? STORAGE - System Startup: AGV Warehouse Management System initialized
+
+============================================================
+  Session ended: 2025-11-15 13:23:17
+============================================================
+============================================================
+  ENVIRONMENT LOG
+  Session started: 2025-11-15 13:25:41
+============================================================
+
+[2025-11-15 13:25:41] ? STORAGE - System Startup: AGV Warehouse Management System initialized
+[2025-11-15 13:25:44] ? TRANSPORT - Frozen-Pkg-1: Unsorted-Area ? Cold-Zone-A
+[2025-11-15 13:25:44] ? TRANSPORT - Ambient-Pkg-15: Unsorted-Area ? Room-Zone-B
+[2025-11-15 13:25:45] ? TRANSPORT - Fresh-Pkg-14: Unsorted-Area ? Room-Zone-A
+
+============================================================
+  Session ended: 2025-11-15 13:25:49
+============================================================
+============================================================
+  ENVIRONMENT LOG
+  Session started: 2025-11-15 13:37:45
+============================================================
+
+[2025-11-15 13:37:51] ? TRANSPORT - High Priority: Zone-A ? Zone-B
+[2025-11-15 13:37:51] ? TRANSPORT - Low Priority: Zone-A ? Zone-B
+[2025-11-15 13:37:52] ? TRANSPORT - Test Package: Zone-A ? Zone-B
+[2025-11-15 13:37:55] ? TRANSPORT - Package 1: Zone-A ? Zone-B
+[2025-11-15 13:37:55] ? TRANSPORT - Package 0: Zone-A ? Zone-B
+[2025-11-15 13:37:58] ? STORAGE - Transport Complete: High Priority moved from Zone-A to Zone-B
+============================================================
+  ENVIRONMENT LOG
+  Session started: 2025-11-15 13:39:25
+============================================================
+
+[2025-11-15 13:39:25] ? STORAGE - System Startup: AGV Warehouse Management System initialized
+[2025-11-15 13:39:28] ? TRANSPORT - Frozen-Pkg-1: Unsorted-Area ? Cold-Zone-A
+[2025-11-15 13:39:28] ? TRANSPORT - Ambient-Pkg-15: Unsorted-Area ? Room-Zone-B
+[2025-11-15 13:39:29] ? TRANSPORT - Fresh-Pkg-14: Unsorted-Area ? Room-Zone-A
+[2025-11-15 13:39:35] ? STORAGE - Transport Complete: Frozen-Pkg-1 moved from Unsorted-Area to Cold-Zone-A
+[2025-11-15 13:39:35] ? STORAGE - Transport Complete: Ambient-Pkg-15 moved from Unsorted-Area to Room-Zone-B
+[2025-11-15 13:39:36] ? STORAGE - Transport Complete: Fresh-Pkg-14 moved from Unsorted-Area to Room-Zone-A
+[2025-11-15 13:39:37] ? TRANSPORT - Frozen-Pkg-13: Unsorted-Area ? Cold-Zone-B
+[2025-11-15 13:39:38] ? TRANSPORT - Hot-Pkg-12: Unsorted-Area ? Hot-Zone-A
+[2025-11-15 13:39:38] ? TRANSPORT - Ambient-Pkg-11: Unsorted-Area ? Room-Zone-B
+[2025-11-15 13:39:44] ? STORAGE - Transport Complete: Frozen-Pkg-13 moved from Unsorted-Area to Cold-Zone-B
+[2025-11-15 13:39:45] ? STORAGE - Transport Complete: Hot-Pkg-12 moved from Unsorted-Area to Hot-Zone-A
+[2025-11-15 13:39:45] ? STORAGE - Transport Complete: Ambient-Pkg-11 moved from Unsorted-Area to Room-Zone-B
+[2025-11-15 13:39:47] ? TRANSPORT - Fresh-Pkg-10: Unsorted-Area ? Room-Zone-A
+[2025-11-15 13:39:47] ? TRANSPORT - Frozen-Pkg-9: Unsorted-Area ? Cold-Zone-A
+[2025-11-15 13:39:48] ? TRANSPORT - Hot-Pkg-8: Unsorted-Area ? Hot-Zone-B
+[2025-11-15 13:39:54] ? STORAGE - Transport Complete: Fresh-Pkg-10 moved from Unsorted-Area to Room-Zone-A
+[2025-11-15 13:39:55] ? STORAGE - Transport Complete: Frozen-Pkg-9 moved from Unsorted-Area to Cold-Zone-A
+[2025-11-15 13:39:55] ? STORAGE - Transport Complete: Hot-Pkg-8 moved from Unsorted-Area to Hot-Zone-B
+[2025-11-15 13:39:56] ? TRANSPORT - Ambient-Pkg-7: Unsorted-Area ? Room-Zone-B
+[2025-11-15 13:39:57] ? TRANSPORT - Frozen-Pkg-1: Cold-Zone-A ? Cold-Zone-B
+[2025-11-15 13:39:57] ? TRANSPORT - Ambient-Pkg-3: Unsorted-Area ? Room-Zone-B
+[2025-11-15 13:40:04] ? STORAGE - Transport Complete: Ambient-Pkg-7 moved from Unsorted-Area to Room-Zone-B
+[2025-11-15 13:40:04] ? STORAGE - Transport Complete: Frozen-Pkg-1 moved from Cold-Zone-A to Cold-Zone-B
+[2025-11-15 13:40:05] ? STORAGE - Transport Complete: Ambient-Pkg-3 moved from Unsorted-Area to Room-Zone-B
+[2025-11-15 13:40:07] ? TRANSPORT - Fresh-Pkg-2: Unsorted-Area ? Room-Zone-A
+[2025-11-15 13:40:08] ? TRANSPORT - Hot-Pkg-4: Unsorted-Area ? Hot-Zone-A
+[2025-11-15 13:40:14] ? STORAGE - Transport Complete: Fresh-Pkg-2 moved from Unsorted-Area to Room-Zone-A
+[2025-11-15 13:40:15] ? STORAGE - Transport Complete: Hot-Pkg-4 moved from Unsorted-Area to Hot-Zone-A
+[2025-11-15 13:40:17] ? TRANSPORT - Fresh-Pkg-6: Unsorted-Area ? Room-Zone-A
+[2025-11-15 13:40:17] ? TRANSPORT - Frozen-Pkg-5: Unsorted-Area ? Cold-Zone-B
+[2025-11-15 13:40:24] ? STORAGE - Transport Complete: Fresh-Pkg-6 moved from Unsorted-Area to Room-Zone-A
+[2025-11-15 13:40:24] ? STORAGE - Transport Complete: Frozen-Pkg-5 moved from Unsorted-Area to Cold-Zone-B
+
+============================================================
+  Session ended: 2025-11-15 13:40:46
+============================================================
+============================================================
+  ENVIRONMENT LOG
+  Session started: 2025-11-15 13:48:16
+============================================================
+
+[2025-11-15 13:48:16] ? STORAGE - System Startup: AGV Warehouse Management System initialized
+[2025-11-15 13:48:19] ? TRANSPORT - Frozen-Pkg-1: Unsorted-Area ? Cold-Zone-A
+[2025-11-15 13:48:19] ? TRANSPORT - Ambient-Pkg-15: Unsorted-Area ? Room-Zone-B
+[2025-11-15 13:48:20] ? TRANSPORT - Fresh-Pkg-14: Unsorted-Area ? Room-Zone-A
+[2025-11-15 13:48:26] ? STORAGE - Transport Complete: Frozen-Pkg-1 moved from Unsorted-Area to Cold-Zone-A
+[2025-11-15 13:48:26] ? STORAGE - Transport Complete: Ambient-Pkg-15 moved from Unsorted-Area to Room-Zone-B
+[2025-11-15 13:48:27] ? STORAGE - Transport Complete: Fresh-Pkg-14 moved from Unsorted-Area to Room-Zone-A
+[2025-11-15 13:48:28] ? TRANSPORT - Frozen-Pkg-13: Unsorted-Area ? Cold-Zone-B
+[2025-11-15 13:48:29] ? TRANSPORT - Hot-Pkg-12: Unsorted-Area ? Hot-Zone-A
+[2025-11-15 13:48:29] ? TRANSPORT - Ambient-Pkg-11: Unsorted-Area ? Room-Zone-B
+[2025-11-15 13:48:35] ? STORAGE - Transport Complete: Frozen-Pkg-13 moved from Unsorted-Area to Cold-Zone-B
+[2025-11-15 13:48:36] ? STORAGE - Transport Complete: Hot-Pkg-12 moved from Unsorted-Area to Hot-Zone-A
+[2025-11-15 13:48:36] ? STORAGE - Transport Complete: Ambient-Pkg-11 moved from Unsorted-Area to Room-Zone-B
+[2025-11-15 13:48:38] ? TRANSPORT - Frozen-Pkg-1: Cold-Zone-A ? Cold-Zone-B
+[2025-11-15 13:48:38] ? TRANSPORT - Frozen-Pkg-5: Unsorted-Area ? Cold-Zone-B
+[2025-11-15 13:48:39] ? TRANSPORT - Frozen-Pkg-9: Unsorted-Area ? Cold-Zone-A
+[2025-11-15 13:48:45] ? STORAGE - Transport Complete: Frozen-Pkg-1 moved from Cold-Zone-A to Cold-Zone-B
+[2025-11-15 13:48:45] ? STORAGE - Transport Complete: Frozen-Pkg-5 moved from Unsorted-Area to Cold-Zone-B
+[2025-11-15 13:48:46] ? STORAGE - Transport Complete: Frozen-Pkg-9 moved from Unsorted-Area to Cold-Zone-A
+[2025-11-15 13:48:48] ? TRANSPORT - Hot-Pkg-4: Unsorted-Area ? Hot-Zone-A
+[2025-11-15 13:48:49] ? TRANSPORT - Ambient-Pkg-7: Unsorted-Area ? Room-Zone-B
+[2025-11-15 13:48:55] ? STORAGE - Transport Complete: Hot-Pkg-4 moved from Unsorted-Area to Hot-Zone-A
+[2025-11-15 13:48:56] ? STORAGE - Transport Complete: Ambient-Pkg-7 moved from Unsorted-Area to Room-Zone-B
+[2025-11-15 13:48:58] ? TRANSPORT - Fresh-Pkg-6: Unsorted-Area ? Room-Zone-A
+[2025-11-15 13:48:58] ? TRANSPORT - Fresh-Pkg-2: Unsorted-Area ? Room-Zone-A
+[2025-11-15 13:49:00] ? TRANSPORT - Fresh-Pkg-10: Unsorted-Area ? Room-Zone-A
+[2025-11-15 13:49:05] ? STORAGE - Transport Complete: Fresh-Pkg-6 moved from Unsorted-Area to Room-Zone-A
+[2025-11-15 13:49:05] ? STORAGE - Transport Complete: Fresh-Pkg-2 moved from Unsorted-Area to Room-Zone-A
+[2025-11-15 13:49:07] ? TRANSPORT - Ambient-Pkg-3: Unsorted-Area ? Room-Zone-B
+[2025-11-15 13:49:07] ? STORAGE - Transport Complete: Fresh-Pkg-10 moved from Unsorted-Area to Room-Zone-A
+[2025-11-15 13:49:08] ? TRANSPORT - Hot-Pkg-8: Unsorted-Area ? Hot-Zone-B
+[2025-11-15 13:49:15] ? STORAGE - Transport Complete: Ambient-Pkg-3 moved from Unsorted-Area to Room-Zone-B
+[2025-11-15 13:49:15] ? STORAGE - Transport Complete: Hot-Pkg-8 moved from Unsorted-Area to Hot-Zone-B
+
+============================================================
+  Session ended: 2025-11-15 13:49:35
+============================================================

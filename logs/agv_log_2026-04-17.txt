@@ -1,0 +1,76 @@
+============================================================
+  AGV LOG
+  Session started: 2026-04-17 15:09:46
+============================================================
+
+[2026-04-17 15:09:52] 🚗 MOVEMENT - AGV-001: (80, 50) → Unsorted-Area
+[2026-04-17 15:09:52] 🚗 MOVEMENT - AGV-002: (100, 50) → Unsorted-Area
+[2026-04-17 15:09:53] 🚗 MOVEMENT - AGV-003: (120, 50) → Unsorted-Area
+[2026-04-17 15:09:55] 🚗 MOVEMENT - AGV-001: Unsorted-Area → Cold-Zone-A
+[2026-04-17 15:09:56] 🚗 MOVEMENT - AGV-002: Unsorted-Area → Room-Zone-B
+[2026-04-17 15:09:56] 🚗 MOVEMENT - AGV-003: Unsorted-Area → Room-Zone-A
+[2026-04-17 15:10:01] 🚗 MOVEMENT - AGV-001: (100, 50) → Unsorted-Area
+[2026-04-17 15:10:02] 🚗 MOVEMENT - AGV-002: (100, 50) → Unsorted-Area
+[2026-04-17 15:10:02] 🚗 MOVEMENT - AGV-003: (100, 50) → Unsorted-Area
+[2026-04-17 15:10:05] 🚗 MOVEMENT - AGV-001: Unsorted-Area → Cold-Zone-B
+[2026-04-17 15:10:05] 🚗 MOVEMENT - AGV-002: Unsorted-Area → Hot-Zone-A
+[2026-04-17 15:10:06] 🚗 MOVEMENT - AGV-003: Unsorted-Area → Room-Zone-B
+[2026-04-17 15:10:11] 🚗 MOVEMENT - AGV-001: (100, 50) → Unsorted-Area
+[2026-04-17 15:10:11] 🚗 MOVEMENT - AGV-002: (100, 50) → Unsorted-Area
+[2026-04-17 15:10:12] 🚗 MOVEMENT - AGV-003: (100, 50) → Unsorted-Area
+[2026-04-17 15:10:14] 🚗 MOVEMENT - AGV-001: Unsorted-Area → Room-Zone-A
+[2026-04-17 15:10:15] 🚗 MOVEMENT - AGV-002: Unsorted-Area → Cold-Zone-A
+[2026-04-17 15:10:15] 🚗 MOVEMENT - AGV-003: Unsorted-Area → Hot-Zone-B
+[2026-04-17 15:10:20] 🚗 MOVEMENT - AGV-001: (100, 50) → Unsorted-Area
+[2026-04-17 15:10:21] 🚗 MOVEMENT - AGV-002: (100, 50) → Unsorted-Area
+[2026-04-17 15:10:21] 🚗 MOVEMENT - AGV-003: (100, 50) → Unsorted-Area
+[2026-04-17 15:10:24] 🚗 MOVEMENT - AGV-001: Unsorted-Area → Room-Zone-B
+[2026-04-17 15:10:25] 🚗 MOVEMENT - AGV-002: Unsorted-Area → Room-Zone-A
+[2026-04-17 15:10:25] 🚗 MOVEMENT - AGV-003: Unsorted-Area → Cold-Zone-B
+[2026-04-17 15:10:28] 🔋 BATTERY - AGV-001: 12.8% - Needs charging
+[2026-04-17 15:10:31] 🚗 MOVEMENT - AGV-001: (100, 50) → CS-1
+[2026-04-17 15:10:31] ⚡ CHARGING START - AGV-001 at CS-1 (Battery: 12.8%)
+[2026-04-17 15:10:31] 🚗 MOVEMENT - AGV-002: (100, 50) → Unsorted-Area
+[2026-04-17 15:10:32] 🚗 MOVEMENT - AGV-003: (100, 50) → Unsorted-Area
+[2026-04-17 15:10:35] 🚗 MOVEMENT - AGV-002: Unsorted-Area → Room-Zone-A
+[2026-04-17 15:10:35] 🚗 MOVEMENT - AGV-003: Unsorted-Area → Room-Zone-B
+[2026-04-17 15:10:40] ✅ CHARGING COMPLETE - AGV-001 (12.8% → 100%)
+[2026-04-17 15:10:41] 🚗 MOVEMENT - AGV-002: (100, 50) → Unsorted-Area
+[2026-04-17 15:10:45] 🚗 MOVEMENT - AGV-002: Unsorted-Area → Hot-Zone-A
+============================================================
+  AGV LOG
+  Session started: 2026-04-17 15:39:34
+============================================================
+
+[2026-04-17 15:39:38] 🚗 MOVEMENT - AGV-001: (80, 50) → Zone-A
+[2026-04-17 15:39:38] 🔋 BATTERY - AGV-001: 18.0% - Needs charging
+[2026-04-17 15:39:39] 🚗 MOVEMENT - AGV-001: (80, 50) → Zone-A
+[2026-04-17 15:39:39] 🚗 MOVEMENT - AGV-002: (100, 50) → Zone-A
+[2026-04-17 15:39:40] 🚗 MOVEMENT - AGV-001: (80, 50) → CS-1
+[2026-04-17 15:39:40] ⚡ CHARGING START - AGV-001 at CS-1 (Battery: 18.0%)
+[2026-04-17 15:39:41] 🚗 MOVEMENT - AGV-001: Zone-A → Zone-B
+[2026-04-17 15:39:42] 🚗 MOVEMENT - AGV-001: Zone-A → Zone-B
+[2026-04-17 15:39:43] 🚗 MOVEMENT - AGV-002: Zone-A → Zone-B
+============================================================
+  AGV LOG
+  Session started: 2026-04-17 15:40:34
+============================================================
+
+[2026-04-17 15:40:38] 🚗 MOVEMENT - AGV-001: (80, 50) → Zone-A
+[2026-04-17 15:40:38] 🔋 BATTERY - AGV-001: 18.0% - Needs charging
+[2026-04-17 15:40:39] 🚗 MOVEMENT - AGV-001: (80, 50) → Zone-A
+[2026-04-17 15:40:39] 🚗 MOVEMENT - AGV-002: (100, 50) → Zone-A
+[2026-04-17 15:40:40] 🚗 MOVEMENT - AGV-001: (80, 50) → CS-1
+[2026-04-17 15:40:40] ⚡ CHARGING START - AGV-001 at CS-1 (Battery: 18.0%)
+[2026-04-17 15:40:41] 🚗 MOVEMENT - AGV-001: Zone-A → Zone-B
+[2026-04-17 15:40:42] 🚗 MOVEMENT - AGV-001: Zone-A → Zone-B
+[2026-04-17 15:40:43] 🚗 MOVEMENT - AGV-002: Zone-A → Zone-B
+============================================================
+  AGV LOG
+  Session started: 2026-04-17 15:41:00
+============================================================
+
+
+============================================================
+  Session ended: 2026-04-17 15:41:05
+============================================================

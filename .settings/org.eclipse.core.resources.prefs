@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/managers/EnvironmentLog.java=UTF-8
+encoding//src/managers/SystemLogger.java=UTF-8
+encoding//src/managers/TaskLog.java=UTF-8
+encoding//src/managers/TaskManager.java=UTF-8
+encoding//src/model/AGV.java=UTF-8
+encoding//src/model/Task.java=UTF-8
+encoding//src/model/TransportTask.java=UTF-8
+encoding/<project>=windows-1252

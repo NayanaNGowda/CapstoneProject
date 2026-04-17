@@ -1,0 +1,354 @@
+============================================================
+  TASK LOG
+  Session started: 2025-11-15 12:45:30
+============================================================
+
+[2025-11-15 12:45:31]  CREATED - Task-1: Charge AGV-001 at CS-1 (Priority: 10)
+[2025-11-15 12:45:32] ASSIGNED - Task-1 ? AGV-001
+[2025-11-15 12:45:32]  STARTED - Task-1 (Charge AGV-001 at CS-1) by AGV-001
+[2025-11-15 12:45:33]  CREATED - Task-0: Transport Low Priority from Zone-A to Zone-B (Priority: 3)
+[2025-11-15 12:45:33]  CREATED - Task-0: Transport High Priority from Zone-A to Zone-B (Priority: 9)
+[2025-11-15 12:45:33] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 12:45:34] FAILED FAILED - Task-0
+[2025-11-15 12:45:34] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 12:45:34]  CREATED - Task-0: Transport Test Package from Zone-A to Zone-B (Priority: 5)
+[2025-11-15 12:45:34]  CREATED - Task-0: Transport Test Package from Zone-A to Zone-B (Priority: 5)
+[2025-11-15 12:45:34] FAILED FAILED - Task-0
+[2025-11-15 12:45:34] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 12:45:35] FAILED FAILED - Task-0
+============================================================
+  TASK LOG
+  Session started: 2025-11-15 13:21:07
+============================================================
+
+[2025-11-15 13:21:08]  CREATED - Task-1: Charge AGV-001 at CS-1 (Priority: 10)
+[2025-11-15 13:21:09] ASSIGNED - Task-1 ? AGV-001
+[2025-11-15 13:21:09]  STARTED - Task-1 (Charge AGV-001 at CS-1) by AGV-001
+[2025-11-15 13:21:10]  CREATED - Task-0: Transport Low Priority from Zone-A to Zone-B (Priority: 3)
+[2025-11-15 13:21:10]  CREATED - Task-0: Transport High Priority from Zone-A to Zone-B (Priority: 9)
+[2025-11-15 13:21:11] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:21:11] FAILED FAILED - Task-0
+[2025-11-15 13:21:11] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:21:11]  CREATED - Task-0: Transport Test Package from Zone-A to Zone-B (Priority: 5)
+[2025-11-15 13:21:11]  CREATED - Task-0: Transport Test Package from Zone-A to Zone-B (Priority: 5)
+[2025-11-15 13:21:12] FAILED FAILED - Task-0
+[2025-11-15 13:21:12] ASSIGNED - Task-0 ? AGV-001
+============================================================
+  TASK LOG
+  Session started: 2025-11-15 13:21:22
+============================================================
+
+[2025-11-15 13:21:25]  CREATED - Task-0: Transport Frozen-Pkg-1 from Unsorted-Area to Cold-Zone-A (Priority: 5)
+[2025-11-15 13:21:25]  CREATED - Task-0: Transport Fresh-Pkg-2 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:21:25]  CREATED - Task-0: Transport Ambient-Pkg-3 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:21:25]  CREATED - Task-0: Transport Hot-Pkg-4 from Unsorted-Area to Hot-Zone-A (Priority: 5)
+[2025-11-15 13:21:25]  CREATED - Task-0: Transport Frozen-Pkg-5 from Unsorted-Area to Cold-Zone-B (Priority: 5)
+[2025-11-15 13:21:25]  CREATED - Task-0: Transport Fresh-Pkg-6 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:21:25]  CREATED - Task-0: Transport Ambient-Pkg-7 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:21:25]  CREATED - Task-0: Transport Hot-Pkg-8 from Unsorted-Area to Hot-Zone-B (Priority: 5)
+[2025-11-15 13:21:25]  CREATED - Task-0: Transport Frozen-Pkg-9 from Unsorted-Area to Cold-Zone-A (Priority: 5)
+[2025-11-15 13:21:25]  CREATED - Task-0: Transport Fresh-Pkg-10 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:21:25]  CREATED - Task-0: Transport Ambient-Pkg-11 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:21:25]  CREATED - Task-0: Transport Hot-Pkg-12 from Unsorted-Area to Hot-Zone-A (Priority: 5)
+[2025-11-15 13:21:25]  CREATED - Task-0: Transport Frozen-Pkg-13 from Unsorted-Area to Cold-Zone-B (Priority: 5)
+[2025-11-15 13:21:25]  CREATED - Task-0: Transport Fresh-Pkg-14 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:21:25]  CREATED - Task-0: Transport Ambient-Pkg-15 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:21:25] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:21:25] FAILED FAILED - Task-0
+[2025-11-15 13:21:25] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:21:26] FAILED FAILED - Task-0
+[2025-11-15 13:21:26] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:21:26] FAILED FAILED - Task-0
+[2025-11-15 13:21:26] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:21:27] FAILED FAILED - Task-0
+[2025-11-15 13:21:27] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:21:27] FAILED FAILED - Task-0
+[2025-11-15 13:21:27] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:21:28] FAILED FAILED - Task-0
+[2025-11-15 13:21:28] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:21:28] FAILED FAILED - Task-0
+[2025-11-15 13:21:28] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:21:29] FAILED FAILED - Task-0
+[2025-11-15 13:21:29] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:21:29] FAILED FAILED - Task-0
+[2025-11-15 13:21:29] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:21:30] FAILED FAILED - Task-0
+[2025-11-15 13:21:30] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:21:30] FAILED FAILED - Task-0
+[2025-11-15 13:21:30] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:21:31] FAILED FAILED - Task-0
+[2025-11-15 13:21:31] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:21:31] FAILED FAILED - Task-0
+[2025-11-15 13:21:31] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:21:32] FAILED FAILED - Task-0
+[2025-11-15 13:21:32] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:21:32] FAILED FAILED - Task-0
+
+============================================================
+  Session ended: 2025-11-15 13:21:47
+============================================================
+============================================================
+  TASK LOG
+  Session started: 2025-11-15 13:23:05
+============================================================
+
+[2025-11-15 13:23:08]  CREATED - Task-0: Transport Frozen-Pkg-1 from Unsorted-Area to Cold-Zone-A (Priority: 5)
+[2025-11-15 13:23:08]  CREATED - Task-0: Transport Fresh-Pkg-2 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:23:08]  CREATED - Task-0: Transport Ambient-Pkg-3 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:23:08]  CREATED - Task-0: Transport Hot-Pkg-4 from Unsorted-Area to Hot-Zone-A (Priority: 5)
+[2025-11-15 13:23:08]  CREATED - Task-0: Transport Frozen-Pkg-5 from Unsorted-Area to Cold-Zone-B (Priority: 5)
+[2025-11-15 13:23:08]  CREATED - Task-0: Transport Fresh-Pkg-6 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:23:08]  CREATED - Task-0: Transport Ambient-Pkg-7 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:23:08]  CREATED - Task-0: Transport Hot-Pkg-8 from Unsorted-Area to Hot-Zone-B (Priority: 5)
+[2025-11-15 13:23:08]  CREATED - Task-0: Transport Frozen-Pkg-9 from Unsorted-Area to Cold-Zone-A (Priority: 5)
+[2025-11-15 13:23:08]  CREATED - Task-0: Transport Fresh-Pkg-10 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:23:08]  CREATED - Task-0: Transport Ambient-Pkg-11 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:23:08]  CREATED - Task-0: Transport Hot-Pkg-12 from Unsorted-Area to Hot-Zone-A (Priority: 5)
+[2025-11-15 13:23:08]  CREATED - Task-0: Transport Frozen-Pkg-13 from Unsorted-Area to Cold-Zone-B (Priority: 5)
+[2025-11-15 13:23:08]  CREATED - Task-0: Transport Fresh-Pkg-14 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:23:08]  CREATED - Task-0: Transport Ambient-Pkg-15 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:23:08] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:23:08] FAILED FAILED - Task-0
+[2025-11-15 13:23:08] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:23:09] FAILED FAILED - Task-0
+[2025-11-15 13:23:09] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:23:09] FAILED FAILED - Task-0
+[2025-11-15 13:23:09] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:23:10] FAILED FAILED - Task-0
+[2025-11-15 13:23:10] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:23:10] FAILED FAILED - Task-0
+[2025-11-15 13:23:10] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:23:11] FAILED FAILED - Task-0
+[2025-11-15 13:23:11] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:23:11] FAILED FAILED - Task-0
+[2025-11-15 13:23:11] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:23:12] FAILED FAILED - Task-0
+[2025-11-15 13:23:12] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:23:12] FAILED FAILED - Task-0
+[2025-11-15 13:23:12] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:23:13] FAILED FAILED - Task-0
+[2025-11-15 13:23:13] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:23:13] FAILED FAILED - Task-0
+[2025-11-15 13:23:13] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:23:14] FAILED FAILED - Task-0
+[2025-11-15 13:23:14] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:23:14] FAILED FAILED - Task-0
+[2025-11-15 13:23:14] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:23:15] FAILED FAILED - Task-0
+[2025-11-15 13:23:15] ASSIGNED - Task-0 ? AGV-001
+[2025-11-15 13:23:15] FAILED FAILED - Task-0
+
+============================================================
+  Session ended: 2025-11-15 13:23:17
+============================================================
+============================================================
+  TASK LOG
+  Session started: 2025-11-15 13:25:41
+============================================================
+
+[2025-11-15 13:25:44]  CREATED - Task-1: Transport Frozen-Pkg-1 from Unsorted-Area to Cold-Zone-A (Priority: 5)
+[2025-11-15 13:25:44]  CREATED - Task-2: Transport Fresh-Pkg-2 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:25:44]  CREATED - Task-3: Transport Ambient-Pkg-3 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:25:44]  CREATED - Task-4: Transport Hot-Pkg-4 from Unsorted-Area to Hot-Zone-A (Priority: 5)
+[2025-11-15 13:25:44]  CREATED - Task-5: Transport Frozen-Pkg-5 from Unsorted-Area to Cold-Zone-B (Priority: 5)
+[2025-11-15 13:25:44]  CREATED - Task-6: Transport Fresh-Pkg-6 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:25:44]  CREATED - Task-7: Transport Ambient-Pkg-7 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:25:44]  CREATED - Task-8: Transport Hot-Pkg-8 from Unsorted-Area to Hot-Zone-B (Priority: 5)
+[2025-11-15 13:25:44]  CREATED - Task-9: Transport Frozen-Pkg-9 from Unsorted-Area to Cold-Zone-A (Priority: 5)
+[2025-11-15 13:25:44]  CREATED - Task-10: Transport Fresh-Pkg-10 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:25:44]  CREATED - Task-11: Transport Ambient-Pkg-11 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:25:44]  CREATED - Task-12: Transport Hot-Pkg-12 from Unsorted-Area to Hot-Zone-A (Priority: 5)
+[2025-11-15 13:25:44]  CREATED - Task-13: Transport Frozen-Pkg-13 from Unsorted-Area to Cold-Zone-B (Priority: 5)
+[2025-11-15 13:25:44]  CREATED - Task-14: Transport Fresh-Pkg-14 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:25:44]  CREATED - Task-15: Transport Ambient-Pkg-15 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:25:44] ASSIGNED - Task-1 ? AGV-001
+[2025-11-15 13:25:44]  STARTED - Task-1 (Transport Frozen-Pkg-1 from Unsorted-Area to Cold-Zone-A) by AGV-001
+[2025-11-15 13:25:44] ASSIGNED - Task-15 ? AGV-002
+[2025-11-15 13:25:44]  STARTED - Task-15 (Transport Ambient-Pkg-15 from Unsorted-Area to Room-Zone-B) by AGV-002
+[2025-11-15 13:25:45] ASSIGNED - Task-14 ? AGV-003
+[2025-11-15 13:25:45]  STARTED - Task-14 (Transport Fresh-Pkg-14 from Unsorted-Area to Room-Zone-A) by AGV-003
+
+============================================================
+  Session ended: 2025-11-15 13:25:49
+============================================================
+============================================================
+  TASK LOG
+  Session started: 2025-11-15 13:37:45
+============================================================
+
+[2025-11-15 13:37:49]  CREATED - Task-10: Charge AGV-001 at CS-1 (Priority: 10)
+[2025-11-15 13:37:49] ASSIGNED - Task-10 ? AGV-001
+[2025-11-15 13:37:49]  STARTED - Task-10 (Charge AGV-001 at CS-1) by AGV-001
+[2025-11-15 13:37:50]  CREATED - Task-11: Transport Low Priority from Zone-A to Zone-B (Priority: 3)
+[2025-11-15 13:37:50]  CREATED - Task-12: Transport High Priority from Zone-A to Zone-B (Priority: 9)
+[2025-11-15 13:37:51] ASSIGNED - Task-12 ? AGV-001
+[2025-11-15 13:37:51]  STARTED - Task-12 (Transport High Priority from Zone-A to Zone-B) by AGV-001
+[2025-11-15 13:37:51] ASSIGNED - Task-11 ? AGV-002
+[2025-11-15 13:37:51]  STARTED - Task-11 (Transport Low Priority from Zone-A to Zone-B) by AGV-002
+[2025-11-15 13:37:51]  CREATED - Task-13: Transport Test Package from Zone-A to Zone-B (Priority: 5)
+[2025-11-15 13:37:51]  CREATED - Task-14: Transport Test Package from Zone-A to Zone-B (Priority: 5)
+[2025-11-15 13:37:52] ASSIGNED - Task-14 ? AGV-001
+[2025-11-15 13:37:52]  STARTED - Task-14 (Transport Test Package from Zone-A to Zone-B) by AGV-001
+[2025-11-15 13:37:54]  CREATED - Task-15: Transport Package 1 from Zone-A to Zone-B (Priority: 5)
+[2025-11-15 13:37:54]  CREATED - Task-19: Transport Package 3 from Zone-A to Zone-B (Priority: 5)
+[2025-11-15 13:37:54]  CREATED - Task-18: Transport Package 4 from Zone-A to Zone-B (Priority: 5)
+[2025-11-15 13:37:54]  CREATED - Task-17: Transport Package 2 from Zone-A to Zone-B (Priority: 5)
+[2025-11-15 13:37:54]  CREATED - Task-16: Transport Package 0 from Zone-A to Zone-B (Priority: 5)
+[2025-11-15 13:37:55] ASSIGNED - Task-15 ? AGV-001
+[2025-11-15 13:37:55]  STARTED - Task-15 (Transport Package 1 from Zone-A to Zone-B) by AGV-001
+[2025-11-15 13:37:55] ASSIGNED - Task-16 ? AGV-002
+[2025-11-15 13:37:55]  STARTED - Task-16 (Transport Package 0 from Zone-A to Zone-B) by AGV-002
+============================================================
+  TASK LOG
+  Session started: 2025-11-15 13:39:25
+============================================================
+
+[2025-11-15 13:39:28]  CREATED - Task-1: Transport Frozen-Pkg-1 from Unsorted-Area to Cold-Zone-A (Priority: 5)
+[2025-11-15 13:39:28]  CREATED - Task-2: Transport Fresh-Pkg-2 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:39:28]  CREATED - Task-3: Transport Ambient-Pkg-3 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:39:28]  CREATED - Task-4: Transport Hot-Pkg-4 from Unsorted-Area to Hot-Zone-A (Priority: 5)
+[2025-11-15 13:39:28]  CREATED - Task-5: Transport Frozen-Pkg-5 from Unsorted-Area to Cold-Zone-B (Priority: 5)
+[2025-11-15 13:39:28]  CREATED - Task-6: Transport Fresh-Pkg-6 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:39:28]  CREATED - Task-7: Transport Ambient-Pkg-7 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:39:28]  CREATED - Task-8: Transport Hot-Pkg-8 from Unsorted-Area to Hot-Zone-B (Priority: 5)
+[2025-11-15 13:39:28]  CREATED - Task-9: Transport Frozen-Pkg-9 from Unsorted-Area to Cold-Zone-A (Priority: 5)
+[2025-11-15 13:39:28]  CREATED - Task-10: Transport Fresh-Pkg-10 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:39:28]  CREATED - Task-11: Transport Ambient-Pkg-11 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:39:28]  CREATED - Task-12: Transport Hot-Pkg-12 from Unsorted-Area to Hot-Zone-A (Priority: 5)
+[2025-11-15 13:39:28]  CREATED - Task-13: Transport Frozen-Pkg-13 from Unsorted-Area to Cold-Zone-B (Priority: 5)
+[2025-11-15 13:39:28]  CREATED - Task-14: Transport Fresh-Pkg-14 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:39:28]  CREATED - Task-15: Transport Ambient-Pkg-15 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:39:28] ASSIGNED - Task-1 ? AGV-001
+[2025-11-15 13:39:28]  STARTED - Task-1 (Transport Frozen-Pkg-1 from Unsorted-Area to Cold-Zone-A) by AGV-001
+[2025-11-15 13:39:28] ASSIGNED - Task-15 ? AGV-002
+[2025-11-15 13:39:28]  STARTED - Task-15 (Transport Ambient-Pkg-15 from Unsorted-Area to Room-Zone-B) by AGV-002
+[2025-11-15 13:39:29] ASSIGNED - Task-14 ? AGV-003
+[2025-11-15 13:39:29]  STARTED - Task-14 (Transport Fresh-Pkg-14 from Unsorted-Area to Room-Zone-A) by AGV-003
+[2025-11-15 13:39:37] COMPLETED COMPLETED - Task-1
+[2025-11-15 13:39:37] ASSIGNED - Task-13 ? AGV-001
+[2025-11-15 13:39:37]  STARTED - Task-13 (Transport Frozen-Pkg-13 from Unsorted-Area to Cold-Zone-B) by AGV-001
+[2025-11-15 13:39:38] COMPLETED COMPLETED - Task-15
+[2025-11-15 13:39:38] ASSIGNED - Task-12 ? AGV-002
+[2025-11-15 13:39:38]  STARTED - Task-12 (Transport Hot-Pkg-12 from Unsorted-Area to Hot-Zone-A) by AGV-002
+[2025-11-15 13:39:38] COMPLETED COMPLETED - Task-14
+[2025-11-15 13:39:38] ASSIGNED - Task-11 ? AGV-003
+[2025-11-15 13:39:38]  STARTED - Task-11 (Transport Ambient-Pkg-11 from Unsorted-Area to Room-Zone-B) by AGV-003
+[2025-11-15 13:39:47] COMPLETED COMPLETED - Task-13
+[2025-11-15 13:39:47] ASSIGNED - Task-10 ? AGV-001
+[2025-11-15 13:39:47]  STARTED - Task-10 (Transport Fresh-Pkg-10 from Unsorted-Area to Room-Zone-A) by AGV-001
+[2025-11-15 13:39:47] COMPLETED COMPLETED - Task-12
+[2025-11-15 13:39:47] ASSIGNED - Task-9 ? AGV-002
+[2025-11-15 13:39:47]  STARTED - Task-9 (Transport Frozen-Pkg-9 from Unsorted-Area to Cold-Zone-A) by AGV-002
+[2025-11-15 13:39:48] COMPLETED COMPLETED - Task-11
+[2025-11-15 13:39:48] ASSIGNED - Task-8 ? AGV-003
+[2025-11-15 13:39:48]  STARTED - Task-8 (Transport Hot-Pkg-8 from Unsorted-Area to Hot-Zone-B) by AGV-003
+[2025-11-15 13:39:56] COMPLETED COMPLETED - Task-10
+[2025-11-15 13:39:56] ASSIGNED - Task-7 ? AGV-001
+[2025-11-15 13:39:56]  STARTED - Task-7 (Transport Ambient-Pkg-7 from Unsorted-Area to Room-Zone-B) by AGV-001
+[2025-11-15 13:39:56]  CREATED - Task-16: Transport Frozen-Pkg-1 from Cold-Zone-A to Cold-Zone-B (Priority: 7)
+[2025-11-15 13:39:57] COMPLETED COMPLETED - Task-9
+[2025-11-15 13:39:57] ASSIGNED - Task-16 ? AGV-002
+[2025-11-15 13:39:57]  STARTED - Task-16 (Transport Frozen-Pkg-1 from Cold-Zone-A to Cold-Zone-B) by AGV-002
+[2025-11-15 13:39:57] COMPLETED COMPLETED - Task-8
+[2025-11-15 13:39:57] ASSIGNED - Task-3 ? AGV-003
+[2025-11-15 13:39:57]  STARTED - Task-3 (Transport Ambient-Pkg-3 from Unsorted-Area to Room-Zone-B) by AGV-003
+[2025-11-15 13:40:06] COMPLETED COMPLETED - Task-7
+[2025-11-15 13:40:06]  CREATED - Task-17: Charge AGV-001 at CS-1 (Priority: 10)
+[2025-11-15 13:40:07] COMPLETED COMPLETED - Task-16
+[2025-11-15 13:40:07] ASSIGNED - Task-17 ? AGV-001
+[2025-11-15 13:40:07]  STARTED - Task-17 (Charge AGV-001 at CS-1) by AGV-001
+[2025-11-15 13:40:07] COMPLETED COMPLETED - Task-3
+[2025-11-15 13:40:07] ASSIGNED - Task-2 ? AGV-002
+[2025-11-15 13:40:07]  STARTED - Task-2 (Transport Fresh-Pkg-2 from Unsorted-Area to Room-Zone-A) by AGV-002
+[2025-11-15 13:40:08] ASSIGNED - Task-4 ? AGV-003
+[2025-11-15 13:40:08]  STARTED - Task-4 (Transport Hot-Pkg-4 from Unsorted-Area to Hot-Zone-A) by AGV-003
+[2025-11-15 13:40:17] COMPLETED COMPLETED - Task-2
+[2025-11-15 13:40:17] ASSIGNED - Task-6 ? AGV-002
+[2025-11-15 13:40:17]  STARTED - Task-6 (Transport Fresh-Pkg-6 from Unsorted-Area to Room-Zone-A) by AGV-002
+[2025-11-15 13:40:17] COMPLETED COMPLETED - Task-4
+[2025-11-15 13:40:17] ASSIGNED - Task-5 ? AGV-003
+[2025-11-15 13:40:17]  STARTED - Task-5 (Transport Frozen-Pkg-5 from Unsorted-Area to Cold-Zone-B) by AGV-003
+[2025-11-15 13:40:20] COMPLETED COMPLETED - Task-17
+[2025-11-15 13:40:26] COMPLETED COMPLETED - Task-6
+[2025-11-15 13:40:27] COMPLETED COMPLETED - Task-5
+
+============================================================
+  Session ended: 2025-11-15 13:40:46
+============================================================
+============================================================
+  TASK LOG
+  Session started: 2025-11-15 13:48:16
+============================================================
+
+[2025-11-15 13:48:19]  CREATED - Task-1: Transport Frozen-Pkg-1 from Unsorted-Area to Cold-Zone-A (Priority: 5)
+[2025-11-15 13:48:19]  CREATED - Task-2: Transport Fresh-Pkg-2 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:48:19]  CREATED - Task-3: Transport Ambient-Pkg-3 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:48:19]  CREATED - Task-4: Transport Hot-Pkg-4 from Unsorted-Area to Hot-Zone-A (Priority: 5)
+[2025-11-15 13:48:19]  CREATED - Task-5: Transport Frozen-Pkg-5 from Unsorted-Area to Cold-Zone-B (Priority: 5)
+[2025-11-15 13:48:19]  CREATED - Task-6: Transport Fresh-Pkg-6 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:48:19]  CREATED - Task-7: Transport Ambient-Pkg-7 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:48:19]  CREATED - Task-8: Transport Hot-Pkg-8 from Unsorted-Area to Hot-Zone-B (Priority: 5)
+[2025-11-15 13:48:19]  CREATED - Task-9: Transport Frozen-Pkg-9 from Unsorted-Area to Cold-Zone-A (Priority: 5)
+[2025-11-15 13:48:19]  CREATED - Task-10: Transport Fresh-Pkg-10 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:48:19]  CREATED - Task-11: Transport Ambient-Pkg-11 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:48:19]  CREATED - Task-12: Transport Hot-Pkg-12 from Unsorted-Area to Hot-Zone-A (Priority: 5)
+[2025-11-15 13:48:19]  CREATED - Task-13: Transport Frozen-Pkg-13 from Unsorted-Area to Cold-Zone-B (Priority: 5)
+[2025-11-15 13:48:19]  CREATED - Task-14: Transport Fresh-Pkg-14 from Unsorted-Area to Room-Zone-A (Priority: 5)
+[2025-11-15 13:48:19]  CREATED - Task-15: Transport Ambient-Pkg-15 from Unsorted-Area to Room-Zone-B (Priority: 5)
+[2025-11-15 13:48:19] ASSIGNED - Task-1 ? AGV-001
+[2025-11-15 13:48:19]  STARTED - Task-1 (Transport Frozen-Pkg-1 from Unsorted-Area to Cold-Zone-A) by AGV-001
+[2025-11-15 13:48:19] ASSIGNED - Task-15 ? AGV-002
+[2025-11-15 13:48:19]  STARTED - Task-15 (Transport Ambient-Pkg-15 from Unsorted-Area to Room-Zone-B) by AGV-002
+[2025-11-15 13:48:20] ASSIGNED - Task-14 ? AGV-003
+[2025-11-15 13:48:20]  STARTED - Task-14 (Transport Fresh-Pkg-14 from Unsorted-Area to Room-Zone-A) by AGV-003
+[2025-11-15 13:48:28] COMPLETED COMPLETED - Task-1
+[2025-11-15 13:48:28] ASSIGNED - Task-13 ? AGV-001
+[2025-11-15 13:48:28]  STARTED - Task-13 (Transport Frozen-Pkg-13 from Unsorted-Area to Cold-Zone-B) by AGV-001
+[2025-11-15 13:48:29] COMPLETED COMPLETED - Task-15
+[2025-11-15 13:48:29] ASSIGNED - Task-12 ? AGV-002
+[2025-11-15 13:48:29]  STARTED - Task-12 (Transport Hot-Pkg-12 from Unsorted-Area to Hot-Zone-A) by AGV-002
+[2025-11-15 13:48:29] COMPLETED COMPLETED - Task-14
+[2025-11-15 13:48:29] ASSIGNED - Task-11 ? AGV-003
+[2025-11-15 13:48:29]  STARTED - Task-11 (Transport Ambient-Pkg-11 from Unsorted-Area to Room-Zone-B) by AGV-003
+[2025-11-15 13:48:37]  CREATED - Task-16: Transport Frozen-Pkg-1 from Cold-Zone-A to Cold-Zone-B (Priority: 7)
+[2025-11-15 13:48:38] COMPLETED COMPLETED - Task-13
+[2025-11-15 13:48:38] ASSIGNED - Task-16 ? AGV-001
+[2025-11-15 13:48:38]  STARTED - Task-16 (Transport Frozen-Pkg-1 from Cold-Zone-A to Cold-Zone-B) by AGV-001
+[2025-11-15 13:48:38] COMPLETED COMPLETED - Task-12
+[2025-11-15 13:48:38] ASSIGNED - Task-5 ? AGV-002
+[2025-11-15 13:48:38]  STARTED - Task-5 (Transport Frozen-Pkg-5 from Unsorted-Area to Cold-Zone-B) by AGV-002
+[2025-11-15 13:48:39] COMPLETED COMPLETED - Task-11
+[2025-11-15 13:48:39] ASSIGNED - Task-9 ? AGV-003
+[2025-11-15 13:48:39]  STARTED - Task-9 (Transport Frozen-Pkg-9 from Unsorted-Area to Cold-Zone-A) by AGV-003
+[2025-11-15 13:48:47] COMPLETED COMPLETED - Task-16
+[2025-11-15 13:48:47]  CREATED - Task-17: Charge AGV-001 at CS-1 (Priority: 10)
+[2025-11-15 13:48:48] COMPLETED COMPLETED - Task-5
+[2025-11-15 13:48:48] ASSIGNED - Task-17 ? AGV-001
+[2025-11-15 13:48:48]  STARTED - Task-17 (Charge AGV-001 at CS-1) by AGV-001
+[2025-11-15 13:48:48] COMPLETED COMPLETED - Task-9
+[2025-11-15 13:48:48] ASSIGNED - Task-4 ? AGV-002
+[2025-11-15 13:48:48]  STARTED - Task-4 (Transport Hot-Pkg-4 from Unsorted-Area to Hot-Zone-A) by AGV-002
+[2025-11-15 13:48:49] ASSIGNED - Task-7 ? AGV-003
+[2025-11-15 13:48:49]  STARTED - Task-7 (Transport Ambient-Pkg-7 from Unsorted-Area to Room-Zone-B) by AGV-003
+[2025-11-15 13:48:58] COMPLETED COMPLETED - Task-4
+[2025-11-15 13:48:58] ASSIGNED - Task-6 ? AGV-002
+[2025-11-15 13:48:58]  STARTED - Task-6 (Transport Fresh-Pkg-6 from Unsorted-Area to Room-Zone-A) by AGV-002
+[2025-11-15 13:48:58] COMPLETED COMPLETED - Task-7
+[2025-11-15 13:48:58] ASSIGNED - Task-2 ? AGV-003
+[2025-11-15 13:48:58]  STARTED - Task-2 (Transport Fresh-Pkg-2 from Unsorted-Area to Room-Zone-A) by AGV-003
+[2025-11-15 13:49:00] COMPLETED COMPLETED - Task-17
+[2025-11-15 13:49:00] ASSIGNED - Task-10 ? AGV-001
+[2025-11-15 13:49:00]  STARTED - Task-10 (Transport Fresh-Pkg-10 from Unsorted-Area to Room-Zone-A) by AGV-001
+[2025-11-15 13:49:07] COMPLETED COMPLETED - Task-6
+[2025-11-15 13:49:07] ASSIGNED - Task-3 ? AGV-002
+[2025-11-15 13:49:07]  STARTED - Task-3 (Transport Ambient-Pkg-3 from Unsorted-Area to Room-Zone-B) by AGV-002
+[2025-11-15 13:49:08] COMPLETED COMPLETED - Task-2
+[2025-11-15 13:49:08] ASSIGNED - Task-8 ? AGV-003
+[2025-11-15 13:49:08]  STARTED - Task-8 (Transport Hot-Pkg-8 from Unsorted-Area to Hot-Zone-B) by AGV-003
+[2025-11-15 13:49:10] COMPLETED COMPLETED - Task-10
+[2025-11-15 13:49:17] COMPLETED COMPLETED - Task-3
+[2025-11-15 13:49:17] COMPLETED COMPLETED - Task-8
+
+============================================================
+  Session ended: 2025-11-15 13:49:35
+============================================================
