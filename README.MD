@@ -1,40 +1,136 @@
-# MDT&ESE 2025-Course-Java  
 
-**Fachhochschule Dortmund**  
-MDT & ESE - 2025 - Semester 1  
-**Group - 9**  
+# 🚛 AGV Warehouse System (JavaFX)
 
-A collaborative project and assignments for our compact programming course in Java.  
-Contains project source code, documentation, and exercises/assignments for evaluation.  
+A JavaFX-based simulation system for an **Automated Guided Vehicle (AGV) cold-chain warehouse**, featuring real-time visualization, task scheduling, and temperature-controlled storage management.
 
 ---
 
-This repository contains the source code, documentation, and assignments for our compact Java programming course. It is organized into different sections, including the Capstone Project, which serves as the final assessment for the course.
+## 📌 Overview
 
-## Team Members
-
-- *Tooba Arif* (ESE **7224112**)  
-- *Nayana Nagaraj* (MDT **7223979**)  
-- *Lavanya Eswarappa* (MDT **7224098**)  
-- *Keya Shah* (MDT **7224656**)  
-
-## Capstone Project
-
-For details about the Capstone Project, please refer to the [GitHub repository](https://github.com/Lavanya-E-art/MDT2025-Course-Java/tree/main/CapstoneProject).
-
-## Assignments
-
-For all the assignments related to this course, please visit the [Assignments Repository](https://github.com/Lavanya-E-art/MDT2025-Course-Java).
-
-
-## User Interface Explanation Video
-
-[Video Explanation - User Interface Walkthrough](https://fhdoprod-my.sharepoint.com/:v:/g/personal/lavanya_eswarappa001_stud_fh-dortmund_de/EafLCkVRNydLuvyzYjtIPm0BT-MdHYydphPD2RKCIve4IA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yHgaIR)
-
-## Code Explanation Video
-
-To better understand the project code and the logic behind it, you can watch the video explanation provided by our team. Click the link below to access the video:
-
-[Video Explanation - Code Walkthrough](https://fhdoprod-my.sharepoint.com/:v:/g/personal/keya_shah001_stud_fh-dortmund_de/EcwaBUwRAFlDjLuejJ9oproB4wXRV2_j8SizLH3iH8aaSA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Bb5rW1)
+This project simulates a smart warehouse where AGVs transport items between temperature-controlled storage zones. It demonstrates task scheduling, automated sorting, and real-time system visualization.
 
 ---
+
+## ✨ Features
+
+### 🚚 AGV System
+- Multiple AGVs with independent states
+- Battery level monitoring
+- Busy / idle status tracking
+
+### 📦 Task Management
+- Priority-based task queue
+- Automatic sorting of items
+- Manual task creation via UI
+- Support for transport and charging tasks
+
+### 🌡️ Cold Chain Storage
+- Temperature-controlled zones:
+  - ❄️ -20°C Cold storage
+  - 🌤️ 20°C Room temperature storage
+  - 🔥 30°C Hot storage
+- Temperature validation for safe transport
+
+### 🏭 Warehouse Visualization
+- JavaFX real-time warehouse map
+- Displays:
+  - AGVs
+  - Storage zones
+  - Charging stations
+  - Unsorted area
+- Live updates every 200ms
+
+### 📊 Monitoring & Logging
+- Task queue viewer
+- Active task tracking
+- AGV status panel
+- Console output viewer
+- System logging support
+
+---
+
+
+## ▶️ How to Run
+
+### Requirements
+- Java 11+
+- JavaFX SDK
+- IDE (IntelliJ IDEA recommended)
+
+### Run Configuration
+Add JavaFX VM options:
+
+```bash
+--module-path /path/to/javafx/lib --add-modules javafx.controls,javafx.fxml
+````
+
+### Run Main Class
+
+```
+ui.AGVWarehouseSystem
+```
+
+---
+
+## ⚙️ System Workflow
+
+### Startup
+
+* Initializes AGVs, zones, and charging stations
+* Loads sample items into unsorted area
+* Auto-generates sorting tasks after startup
+
+### Auto Sorting
+
+* Items are grouped by required temperature
+* Tasks are created automatically
+* Distributed across matching storage zones
+
+---
+
+## 🖥️ UI Tabs
+
+### 🚚 Warehouse Operations
+
+* Task creation panel
+* Warehouse visualization
+* Status monitoring panel
+
+### 📋 Log Viewer
+
+* System event logs
+
+### 💻 Console Output
+
+* Real-time logs and debug output
+
+---
+
+## 🔧 Key Logic
+
+### Task Creation Rules
+
+* Source and destination must differ
+* Temperature difference must be ≤ 5°C
+* Item must exist in source zone
+
+### Scheduling
+
+* Priority-based execution
+* Higher priority tasks executed first
+
+---
+
+## 🚀 Future Improvements
+
+* Pathfinding for AGVs (A*, Dijkstra)
+* Collision detection system
+* Database persistence
+* REST API integration
+* AI-based task optimization
+
+---
+
+
+
+
